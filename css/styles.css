@@ -1,0 +1,12 @@
+/*Under constrution page*/
+body {
+	background: transparent url(../img/old/body-bg-pattern.png) repeat;
+}
+section {
+	background: transparent url(../img/old/home-map.png) no-repeat top center;
+	min-height: 300px;
+	padding-top: 100px;
+}
+p, h1 {
+	padding-right: 400px;
+}
